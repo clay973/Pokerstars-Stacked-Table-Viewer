@@ -4,4 +4,4 @@ AutoHotKey (AHK) script which shows thumbnail previews of all open Pokerstars, F
 
 Requires Vista/Windows7 with aero turned on.script for previewing stacked tables using the Windows 7 preview.
 
-See thread on twoplustwo forums here: https://forumserver.twoplustwo.com/167/poker-software/ahk-script-stacked-table-previewer-918842/
+See my thread on twoplustwo forums here: https://forumserver.twoplustwo.com/167/poker-software/ahk-script-stacked-table-previewer-918842/
